@@ -1,0 +1,56 @@
+/*
+ * Estilos del clon de la pagina teamtreehouse
+ */
+body{
+ 	background:#F0F0ED;
+ 	font-size: 16px;
+ 	margin: 0 auto;
+ 	color: #666;
+ }
+#topheader{
+	background: #33363b;
+	/*height: 228px;*/
+	border-top: 11px solid #25272a;
+}
+	#topheader form{padding-top: 28px}
+	#topheader input[type="text"]{border-radius: 35px;}
+header{
+	width: 1180px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+header img{width: 300px; height: auto;float: left;}
+header form{float: right;}
+nav{ /*width: 100%*/}
+nav ul li{
+	/*display: inline-block;*/
+	float: left;
+	padding: 1em;
+}
+nav ul{list-style: none; margin:0;padding: 0;}
+
+input#submit{
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 3px;
+	height: 38px;
+	width: 40px;
+	border: 0;
+	border-top-right-radius: 35px;
+	border-bottom-right-radius: 35px;
+	background: none;
+	color: #DDDDDB;
+	line-height: 2.5em;
+	text-align: center;
+	padding-left: 2px;
+	background: #666;
+}
+#inputsearch{background: #25272A; border: none; width: }
+
+
+
+#contenido{
+	
+ }
